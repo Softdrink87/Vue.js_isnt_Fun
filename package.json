@@ -1,0 +1,22 @@
+{
+  "name": "vuejs_isnt_fun",
+  "version": "1.0.0",
+  "description": "Vue.js 는 재밌지 않다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Softdrink87/Vue.js_isnt_Fun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Softdrink87/Vue.js_isnt_Fun/issues"
+  },
+  "homepage": "https://github.com/Softdrink87/Vue.js_isnt_Fun#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
